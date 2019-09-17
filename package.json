@@ -1,0 +1,14 @@
+{
+  "name": "react-integrity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/integritystl/react-integrity",
+  "author": "integritystl",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "storybook": "^5.1.11",
+    "styled-components": "^4.3.2"
+  }
+}
